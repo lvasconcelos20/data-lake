@@ -1,4 +1,4 @@
-# Transport Backend Challenge
+# Data Lake Challenge
 
 ## Sobre o Projeto
 Este projeto é uma API Backend desenvolvida para o setor de transportes da V-Lab. O objetivo central é gerenciar a ingestão de dados de abastecimento de uma frota nacional ("Data Lake"), garantindo validação de dados, persistência segura e detecção de anomalias em tempo real.
