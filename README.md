@@ -1,7 +1,7 @@
 # Data Lake Challenge
 
 ## Sobre o Projeto
-Este projeto é uma API Backend desenvolvida para o setor de transportes da V-Lab. O objetivo central é gerenciar a ingestão de dados de abastecimento de uma frota nacional ("Data Lake"), garantindo validação de dados, persistência segura e detecção de anomalias em tempo real.
+Este projeto é uma API Backend desenvolvida para o setor de transportes. O objetivo central é gerenciar a ingestão de dados de abastecimento de uma frota nacional ("Data Lake"), garantindo validação de dados, persistência segura e detecção de anomalias em tempo real.
 
 A aplicação foi construída visando robustez, escalabilidade e facilidade de manutenção, utilizando tecnologias modernas e práticas de Clean Code.
 
